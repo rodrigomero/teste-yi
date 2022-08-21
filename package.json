@@ -1,0 +1,8 @@
+{
+  "name": "teste-yi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rodrigomero/teste-yi.git",
+  "author": "Rodrigo Méro <meroo.rodrigo@gmail.com>",
+  "license": "MIT"
+}
